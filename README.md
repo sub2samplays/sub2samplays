@@ -1,1 +1,1 @@
-https://github.com/vqea/discord-autopfp-bot.git
+https://github.com/sub2samplays/sub2samplays/releases
